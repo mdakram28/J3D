@@ -1,2 +1,0 @@
-PlaneViewer
-PlanePanel
